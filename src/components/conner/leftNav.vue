@@ -1,0 +1,29 @@
+<template>
+<div>
+     <div>
+         <span icon-font icon-goumai></span>
+         <p>收银</p>
+     </div>
+     <div>
+         <span></span>
+         <p>店铺</p>
+     </div>
+     <div>
+         <span></span>
+         <p>商品</p>
+     </div>
+     <div>
+         <span></span>
+         <p>会员</p>
+     </div>
+     <div>
+         <span></span>
+         <p>统计</p>
+     </div>
+     <div>
+         <span></span>
+         <p>设置</p>
+     </div>
+    
+</div>
+</template>
